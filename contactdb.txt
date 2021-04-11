@@ -1,0 +1,17 @@
+===Database contactdb
+
+== Table structure for table admin
+
+|------
+|Column|Type|Null|Default
+|------
+|username|text|No|
+|password|text|No|
+== Table structure for table contacttable
+
+|------
+|Column|Type|Null|Default
+|------
+|nomComplet|varchar(30)|No|
+|//**email**//|varchar(400)|No|
+|text|text|No|
